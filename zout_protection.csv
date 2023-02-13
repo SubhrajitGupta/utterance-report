@@ -1,0 +1,31 @@
+Utterance,Intents
+tell me about your medical insurance ,"protection: 1
+"
+do you offer medical card ,"protection: 0.971
+"
+more info about coverage ,"protection: 0.996
+"
+i want to buy auto insurance ,"protection: 0.997
+"
+i want to buy motor insurance ,"protection: 1
+"
+info about insurance,"protection: 1
+"
+do you offer home insurance ,"protection: 0.994
+"
+info about accident coverage ,"protection: 0.993
+"
+I want to get travel protection ,"protection: 0.999
+"
+how to buy travel insurance ,"protection: 1
+"
+what kind of protection do you offer ,"protection: 0.97
+"
+details about life insurance ,"protection: 1
+"
+insurans pelancongan ,"protection: 0.895
+"
+info about behicle insurance ,"protection: 1
+"
+i'm interested in takaful ,"protection: 0.915
+"

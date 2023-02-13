@@ -1,0 +1,290 @@
+Utterance,Intents
+Ada kerja kosong?,"vacancy-practical-inquiry: 0.959
+"
+Affin Bank terima student untuk practical tak?,"vacancy-practical-inquiry: 0.966
+"
+Bagaimanakah cara untuk saya mendaftar semula Affinmax Secure saya?,"affinmax-secure-registration: 0.978
+"
+Membimbing admin untuk mencipta Profil pengguna atau pandu kepada panduan pengguna,"guide-admin-to-create-user-in-profile-or-guide-to-user-guide: 0.986
+"
+Kad saya hilang macam mana nak block?,"card-maintenance: 0.991
+"
+Saya nak penyata dari awal pembukaan akaun hingga yang terkini.,"e-statement: 0.931
+"
+Saya nak keluarkan duit lebihan bayaran ke akaun simpanan.,"loan-redraw: 0.971
+"
+Bagaimana nak bayar baki penyata kad kredit?,"pay-to-credit-card: 0.979
+"
+Saya nak save detail akaun ini sebagai favourite transfer.,"register-fav-transfer: 0.977
+"
+Saya nak save detail akaun bil ni sebagai favourite macam mana?,"manage-payment: 0.974
+"
+Saya nak resit transfer yang saya buat tadi.,"view-rib-transaction-history: 0.987
+"
+Who create you?,"who-is-your-mentor: 1
+"
+what is the interest rate for home loan,"view-advance-payment-loan-and-financing: 0.104
+"
+Adakah anda mempunyai Deposit Tetap Asing?,"do-you-have-foreign-fixed-deposit: 1
+"
+Adakah Affin mempunyai FD Asing?,"do-you-have-foreign-fixed-deposit: 0.978
+"
+Saya dah update nombor baru dekat cawangan tapi kenapa bila buat pembelian kad tak terima OTP ni nombor baru?,"is-it-tac-and-otp-number-is-the-same-thing: 0.907
+"
+Saya nak tukar Soalan Sekuriti/Cabaran.,"change-security-questions: 0.964
+"
+Saya tak berjaya lakukan transaksi sebab saya tak ingat kata laluan,"affinsecure-forgot-pin: 0.2
+"
+AffinSecure. Boleh tolong reset?,"forgot-password: 0.031
+"
+Saya nak bayaran ni dibuat secara automatik dari akaun saya pada tarikh berikut.,"manage-transfer-shedule-transfer: 0.967
+"
+Saya nak batalkan bayaran autodebit saya buat online sebab loan tu dah habis bayar.,"manage-transfer-shedule-transfer: 0.974
+"
+Macam mana nak check jumlah lebihan bayaran dekat akaun pinjaman saya?,"view-advance-payment-loan-and-financing: 0.971
+"
+Macam mana nak dapatkan penyata?,"e-statement: 0.801
+"
+Saya request TAC dah dapat dekat nombor baru tapi OTP masih send dekat nombor lama.,"change-phone-number-for-debit-card-credit-card: 0.952
+"
+Saya nak kemaskini alamat surat menyurat bagi akaun bersama.,"change-mailing-address-joint-holders: 0.972
+"
+Saya nak semak duit masuk ke akaun hari ni.,"how-to-view-transaction-rib: 0.675
+"
+Siapa awak?,"who-are-you: 0.988
+"
+Nama awak apa?,"who-are-you: 0.996
+"
+Awak ada girlfriend tak?,"who-do-you-have-crush: 0.993
+"
+Awak ada boyfriend tak?,"who-do-you-have-crush: 0.995
+"
+Berapa umur awak?,"how-old-are-you: 0.995
+"
+Saya nak tukar gambar bila log masuk profil online.,"change-security-image-word: 0.984
+"
+Awak tinggal di mana?,"where-are-you-from: 0.996
+"
+Saya nak resit transfer yang saya buat.,"view-rib-transaction-history: 0.971
+"
+Awak dari mana?,"where-are-you-from: 0.988
+"
+Awak suka jazz tak?,"do-you-like-sport: 0.999
+"
+Saya lonely.,"i-am-lonely: 0.996
+"
+Awak ada keluarga tak?,"do-you-have-mother: 0.996
+"
+Awak muda ke?,"how-old-are-you: 0.999
+"
+Awak suka warna apa?,"what-color-you-like: 0.998
+"
+Berapa banyak yang saya perlukan untuk deposit untuk deposit tetap asing?,"do-you-have-foreign-fixed-deposit: 0.984
+"
+Saya nak buat pinjaman dengan cagar tanah.,"collateral-for-loan: 0.931
+"
+Awak suka movie apa?,"what-color-you-like: 0.939
+"
+May i transfer from Affin to other bank?,"can-i-transfer-from-affin-to-other-bank: 0.995
+"
+Bila saya nak dapat balik refund RM200,"why-am-i-being-charged-rm-200: 0.727
+"
+Apakah dokumen yang diperlukan untuk membuka akaun dengan Affin Bank?,"open-a-basic-savings-account: 0.602
+"
+What food you like?,"what-color-you-like: 0.915
+"
+Are you old?,"how-old-are-you: 0.976
+"
+Saya nak transfer tapi tak boleh sebab nombor telefon tak berdaftar.,"how-to-create-a-token-i-cant-transfer-money-pls-help-me: 0.954
+"
+You are boring,"you-are-boring: 1
+"
+Do you like watching movie?,"do-you-like-sport: 0.949
+"
+Do you have father?,"do-you-have-mother: 0.988
+"
+Saya ada buat lebihan bayaran dekat akaun pinjaman.,"what-happens-if-i-pay-more-than-my-monthly-instalment: 0.941
+"
+i wanna convert balance to instalment,"card: 0.849
+"
+Who is your boss?,"who-is-your-boss: 0.998
+"
+Lapar tak?,"have-you-eat: 0.995
+"
+Who do you like?,"what-color-you-like: 0.991
+"
+Awak suka siapa?,"what-color-you-like: 0.945
+"
+Awak suka minum apa?,"what-color-you-like: 0.976
+"
+Saya nak mohon personal loan..,"i-want-to-apply-for-a-personal-loan: 0.991
+"
+saya ada soalan,"main menu: 0.726
+"
+Bilakah saya boleh tahu status pinjaman saya?,"loan-process-tat: 0.625
+"
+What can you do?,"what-can-you-do: 0.999
+"
+Bolehkah saya mengakses akaun A1addin melalui rib.affinalways.com?,"a-1-addin-and-affinalways-linkage: 0.956
+"
+I want to know about Deposit Services,"Products and Services: 0.867
+"
+Adakah terdapat sebarang isu dengan sistem perbankan dalam talian?,"is-there-a-problem-with-your-online-banking-resolved: 0.988
+"
+Awak suka saya tak?,"what-color-you-like: 0.855
+"
+tak suka,"you-are-boring: 0.939
+"
+Are you youth young?,"how-old-are-you: 0.996
+"
+Adakah bank anda ditutup pada waktu makan tengah hari?,"branch-operation-hours: 0.998
+"
+need information about Foreign Currency,"deposits: 0.925
+"
+Do you like music?,"do-you-like-sport: 0.962
+"
+Awak ada kakak tak?,"do-you-have-mother: 0.994
+"
+OPERASI CDM & ATM,"cdm-and-atm-operations_fyaqsz: 0.884
+"
+Awak ada abang tak?,"do-you-have-mother: 0.994
+"
+Adakah terdapat masalah dengan Perbankan Dalam Talian anda? (Diselesaikan),"is-there-a-problem-with-your-online-banking-resolved: 0.87
+"
+How to do telegraphic transfer?,"telegraphic-transfer: 0.988
+"
+Awak ni muda remaja ke?,"how-old-are-you: 0.989
+"
+A1addin ialah aplikasi perbankan internet Affin Bank?,"a-1-addin-and-affinalways-linkage: 0.784
+"
+i have an issue,"main menu: 0.984
+"
+Bagaimanakah saya boleh mula menggunakan Affinmax?,"guide-admin-to-create-user-in-profile-or-guide-to-user-guide: 0.524
+"
+Siapa yang cipta awak?,"who-is-your-mentor: 1
+"
+Awak lagi tua dari saya ke?,"how-old-are-you: 0.991
+"
+Dokumen apa yang diperlukan untuk membuka akaun dengan Affin Bank?,"open-a-basic-savings-account: 0.816
+"
+Bagaimana cara mendaftar QR Pay untuk Affinmax?,"guide-customer-on-register-qr: 0.914
+"
+Saya rasa saya tidak ingat nama pengguna saya lagi,"forgot-username: 0.976
+"
+Bagaimanakah saya boleh melihat bayaran tambahan yang saya buat ke akaun pinjaman saya?,"view-advance-payment-loan-and-financing: 0.988
+"
+How to make autodebit via AffinAlways?,"manage-transfer-shedule-transfer: 0.972
+"
+Mengapa nombor TAC saya sangat lambat diterima?,"tac-delayed: 0.952
+"
+macam ada masalah TAC la,"i-have-tac-issue_hwdlax: 0.846
+"
+Adakah A1addin aplikasi perbankan internet Affin Bank?,"a-1-addin-and-affinalways-linkage: 0.113
+"
+Saya nak apply Affin Duo dan saya nak Islamic Credit Card.,"affin-duo-credit-card-type: 0.996
+"
+Awak suka melancong tak?,"do-you-like-sport: 0.963
+"
+Adakah anda menyediakan pinjaman menggunakan tanah sebagai cagaran?,"collateral-for-loan: 0.935
+"
+Boring,"you-are-boring: 0.998
+"
+Does online banking having issue ?,"is-there-a-problem-with-your-online-banking-resolved: 0.985
+"
+Apakah kriteria untuk memohon Pinjaman Peribadi?,"i-want-to-apply-for-a-personal-loan: 0.965
+"
+Siapa yang menghasilkan awak?,"who-is-your-mentor: 0.999
+"
+Do I need to perform minimum 12 transactions on each DUO card to get annual fee waiver or only at one of the card will do?,"annual-fee-charged-for-duo: 0.995
+"
+Adakah saya perlu mencipta mana-mana pengguna sebelum saya boleh mula menggunakan Affinmax?,"guide-admin-to-create-user-in-profile-or-guide-to-user-guide: 0.949
+"
+Ask me something,"ask-me-something: 0.983
+main menu: 0.231
+"
+Boleh semak kelayakan nak memohon pinjaman peribadi,"i-want-to-apply-for-a-personal-loan: 0.912
+"
+Saya mahu membuka akaun dengan affin bagaimana saya melakukannya?,"open-a-basic-savings-account: 0.723
+"
+saya ada isu,"main menu: 0.901
+"
+Berapa banyak yang perlu saya depositkan untuk Simpanan Tetap Asing?,"do-you-have-foreign-fixed-deposit: 0.612
+"
+Adakah perbankan dalam talian menghadapi isu?,"is-there-a-problem-with-your-online-banking-resolved: 0.918
+"
+Saya tak mahu Affin DUO Non-Islamic.,"affin-duo-credit-card-type: 0.965
+"
+saya ada masalah,"main menu: 0.955
+"
+Adakah terdapat masalah dengan Perbankan Dalam Talian anda?,"is-there-a-problem-with-your-online-banking-resolved: 0.936
+"
+My company got Affinmax how can I use QR for my customer?,"guide-customer-on-register-qr: 0.997
+"
+Adakah perlu memberi nombor BSB untuk pindahan telegraf?,"telegraphic-transfer-bsb-number-optional-or-not: 0.975
+"
+Why do I get error FS002 when trying to log in to AffinAlways?,"fms-lockout-fs-002: 0.997
+"
+Berapakah caj RM25 pada penyata kad kredit saya?,"how-do-i-waive-rm25-sst: 0.996
+"
+Do you like rock music?,"do-you-like-sport: 0.981
+"
+How do I make extra payment and save interest?,"how-do-i-make-prepayment-with-my-excess-monthly-payment: 0.758
+"
+Sila nasihatkan saya kadar anda untuk Pinjaman Peribadi.,"i-want-to-apply-for-a-personal-loan: 0.999
+"
+Apa makanan kegemaran awak?,"have-you-eat: 0.479
+"
+Saya tak boleh log masuk AffinAlways kerana menerima error FS002?,"fms-lockout-fs-002: 0.752
+"
+after the maturity is done can i still deposit to my account?,"how-many-options-of-maturity-for-efd-and-etdi: 0.998
+"
+What is meant by BSB number on telegraphic transfer?,"telegraphic-transfer-bsb-number-optional-or-not: 1
+"
+Macam mana nak dapatkan nama pengguna semula,"forgot-username: 0.693
+"
+Saya ingin mengedit jumlahnya kerana terdapat peningkatan dalam pembayaran monhtly. Bagaimana saya boleh berbuat demikian?,"manage-transfer-shedule-transfer: 0.879
+"
+I have a business and would like to open current account with Affin Bank,"what-are-documents-required-to-open-company-current-account: 0.988
+"
+what is the interest rate for junior account,"deposits: 0.895
+"
+bank ni tak faham ke,"vacancy-practical-inquiry: 0.006
+"
+bank ni teruklah,"is-there-a-problem-with-your-online-banking: 0.012
+"
+you are a stupid machine,"you-are-boring: 0.116
+"
+how can i get the information of debit cards,"card: 0.977
+"
+problem not solved,"you-are-boring: 0.653
+"
+what is the minimum amount for FD placement,"deposits: 0.817
+"
+menabung untuk hari tua,"deposits: 0.921
+"
+akaun untuk dewasa,"deposits: 0.872
+"
+how can i know about Interest Rates,"deposits: 0.958
+"
+Bagaimanakah cara membuat pengeluaran Simpanan Tetap?,"how-do-you-calculate-fd-interest: 0.231
+"
+info about accident coverage,"protection: 0.995
+"
+pilihan matang untuk eFD,"how-many-options-of-maturity-for-efd-and-etdi: 0.411
+"
+one stupid bot,"you-should-improve-your-website: 0.067
+"
+What is A1addin,"Products and Services: 0.749
+"
+Can I please speak to your boss?,"sponsorship-proposal: 0.291
+who-is-your-boss: 0.527
+liveagent: 0.572
+"
+Saya tidak boleh datang ke cawangan anda kerana saya tinggal jauh bagaimana anda akan berkongsi FD saya dengan saya?,"how-to-create-a-token-i-cant-transfer-money-pls-help-me: 0.027
+"
+What is the interest rate for personal loan,"i-want-to-apply-for-a-personal-loan: 0.9
+"
+APPLIKASI RIB (JAWAPAN),"rib-inactive-no-more-self-reactivation-please-contact-cc: 0.118
+"
+how can i transfer credit card balance to Affin card,"card: 0.946
+"

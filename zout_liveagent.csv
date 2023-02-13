@@ -1,0 +1,255 @@
+Utterance,Intents
+can i call the agent ,"liveagent: 0.95
+"
+i want to connect with support ,"liveagent: 0.951
+"
+how can i connect with support ,"liveagent: 0.986
+"
+connect with agent ,"liveagent: 1
+"
+trigger live agent journey,"how-do-i-withdraw-my-fd: 0.137
+"
+i want to talk to live agent,"update-email-to-receive-statement-via-email: 0.246
+liveagent: 0.994
+"
+i want to talk to a person,"liveagent: 0.997
+"
+chat with person,"liveagent: 0.999
+"
+i wanna talk to a human,"liveagent: 0.997
+"
+chat with human,"liveagent: 0.999
+"
+you dont understand me,"liveagent: 0.999
+"
+i need to talk to someone,"liveagent: 0.999
+"
+you are a stupid machine,"you-are-boring: 0.749
+"
+one stupid bot,"you-should-improve-your-website: 0.067
+"
+you cannot solve my problem,"liveagent: 0.957
+"
+problem not solved,"you-are-boring: 0.405
+"
+you didnt answer my question,"liveagent: 0.962
+"
+Can I please speak to your boss?,"who-is-your-boss: 0.78
+liveagent: 0.229
+"
+Can I please speak to your director?,"who-is-your-boss: 0.78
+liveagent: 0.229
+"
+Can I please speak to your manager?,"who-is-your-boss: 0.78
+liveagent: 0.229
+"
+Can I please speak to your supervisor,"who-is-your-boss: 0.771
+liveagent: 0.292
+"
+Can I please speak with your boss,"who-is-your-boss: 0.754
+liveagent: 0.247
+"
+Can I please speak with your director,"who-is-your-boss: 0.754
+liveagent: 0.247
+"
+Can I please speak with your manager,"who-is-your-boss: 0.754
+liveagent: 0.247
+"
+Can I please speak with your supervisor,"who-is-your-boss: 0.754
+liveagent: 0.247
+"
+Can I speak to your boss?,"who-is-your-boss: 0.726
+liveagent: 0.268
+"
+Can I speak to your director?,"who-is-your-boss: 0.726
+liveagent: 0.268
+"
+Can I speak to your manager?,"who-is-your-boss: 0.726
+liveagent: 0.268
+"
+Can I speak to your supervisor,"who-is-your-boss: 0.72
+liveagent: 0.32
+"
+Can I speak with your boss,"who-is-your-boss: 0.725
+liveagent: 0.266
+"
+Can I speak with your director,"who-is-your-boss: 0.725
+liveagent: 0.266
+"
+Can I speak with your manager,"who-is-your-boss: 0.725
+liveagent: 0.266
+"
+Can I speak with your supervisor,"who-is-your-boss: 0.725
+liveagent: 0.266
+"
+I demand to speak to someone in charge,"liveagent: 0.923
+"
+I demand to speak to your boss,"who-is-your-boss: 0.342
+liveagent: 0.321
+"
+I demand to speak to your manager,"who-is-your-boss: 0.342
+liveagent: 0.321
+"
+I demand to speak to your supervisor,"who-is-your-boss: 0.342
+liveagent: 0.321
+"
+I demand to speak with someone in charge,"liveagent: 0.915
+"
+I demand to speak with your boss,"who-is-your-boss: 0.355
+liveagent: 0.26
+"
+I demand to speak with your manager,"who-is-your-boss: 0.355
+liveagent: 0.26
+"
+I demand to speak with your supervisor,"who-is-your-boss: 0.355
+liveagent: 0.26
+"
+I demand to talk to someone in charge,"liveagent: 0.879
+"
+I demand to talk to your boss,"who-is-your-boss: 0.385
+"
+I demand to talk to your manager,"who-is-your-boss: 0.385
+"
+I demand to talk to your supervisor,"who-is-your-boss: 0.385
+"
+I demand to talk with someone in charge,"liveagent: 0.843
+"
+I demand to talk with your boss,"who-is-your-boss: 0.41
+"
+I demand to talk with your manager,"who-is-your-boss: 0.41
+"
+I demand to talk with your supervisor,"who-is-your-boss: 0.41
+"
+I need to speak to someone in charge,"liveagent: 0.99
+"
+I need to speak to your boss,"who-is-your-boss: 0.24
+liveagent: 0.544
+"
+I need to speak to your manager,"who-is-your-boss: 0.24
+liveagent: 0.544
+"
+I need to speak to your supervisor,"who-is-your-boss: 0.24
+liveagent: 0.544
+"
+I need to speak with someone in charge,"liveagent: 0.991
+"
+I need to speak with your boss,"who-is-your-boss: 0.258
+liveagent: 0.455
+"
+I need to speak with your manager,"who-is-your-boss: 0.258
+liveagent: 0.455
+"
+I need to speak with your supervisor,"who-is-your-boss: 0.258
+liveagent: 0.455
+"
+I need to talk to someone in charge,"liveagent: 0.987
+"
+I need to talk to your boss,"who-is-your-boss: 0.316
+liveagent: 0.308
+"
+I need to talk to your manager,"who-is-your-boss: 0.316
+liveagent: 0.308
+"
+I need to talk to your supervisor,"who-is-your-boss: 0.316
+liveagent: 0.308
+"
+I need to talk with someone in charge,"liveagent: 0.984
+"
+I need to talk with your boss,"who-is-your-boss: 0.351
+liveagent: 0.269
+"
+I need to talk with your manager,"who-is-your-boss: 0.351
+liveagent: 0.269
+"
+I need to talk with your supervisor,"who-is-your-boss: 0.351
+liveagent: 0.269
+"
+I want to speak to someone in charge,"liveagent: 0.985
+"
+I want to speak to your boss,"who-is-your-boss: 0.474
+liveagent: 0.309
+"
+I want to speak to your manager,"who-is-your-boss: 0.474
+liveagent: 0.309
+"
+I want to speak to your supervisor,"who-is-your-boss: 0.474
+liveagent: 0.309
+"
+I want to speak with someone in charge,"liveagent: 0.987
+"
+I want to speak with your boss,"who-is-your-boss: 0.499
+liveagent: 0.246
+"
+I want to speak with your manager,"who-is-your-boss: 0.499
+liveagent: 0.246
+"
+I want to speak with your supervisor,"who-is-your-boss: 0.499
+liveagent: 0.246
+"
+I want to talk to someone in charge,"liveagent: 0.973
+"
+I want to talk to your boss,"who-is-your-boss: 0.57
+"
+I want to talk to your manager,"who-is-your-boss: 0.57
+"
+I want to talk to your supervisor,"who-is-your-boss: 0.57
+"
+I want to talk with someone in charge,"liveagent: 0.972
+"
+I want to talk with your boss,"who-is-your-boss: 0.589
+"
+I want to talk with your manager,"who-is-your-boss: 0.589
+"
+I want to talk with your supervisor,"who-is-your-boss: 0.589
+"
+cakap ngan ejen,"liveagent: 0.994
+"
+nak cakap dgn orang,"liveagent: 0.992
+"
+nak cakap dgn ejen,"liveagent: 0.989
+"
+ada orang tak,"liveagent: 0.969
+"
+nak cakap dgn manusia,"liveagent: 0.992
+"
+nak org pls,"liveagent: 0.679
+"
+cakap ngan manusia pls,"liveagent: 0.822
+"
+tak nak chatbot,"liveagent: 0.869
+"
+tak nak robot,"liveagent: 0.846
+"
+selain robot ada tak,"liveagent: 0.987
+"
+ini manusia ke robot,"who-is-your-mentor: 0.21
+liveagent: 0.676
+"
+ejen yang bukan robot pls,"liveagent: 0.872
+"
+manusia tak ade ke,"liveagent: 0.951
+"
+mane semua manusia,"liveagent: 0.88
+"
+orang yang real pls,"liveagent: 0.964
+"
+ni orang real ke,"liveagent: 0.956
+"
+ejen yang real ade,"liveagent: 0.989
+"
+tak nak bot,"liveagent: 0.735
+"
+tak nak mesin,"liveagent: 0.735
+"
+ni mesin ke orang betul,"liveagent: 0.655
+"
+manusia ke ni,"liveagent: 0.476
+"
+mana boss kau,"liveagent: 0.766
+"
+ejen ada tak,"liveagent: 0.79
+"
+caner nak selesai ni,"end chat: 0.588
+"
+awak tak faham,"liveagent: 0.939
+"

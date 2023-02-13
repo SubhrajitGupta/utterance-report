@@ -1,0 +1,122 @@
+Utterance,Intents
+Info about promo ,"promotions: 0.988
+"
+I wanna know the latest promotions,"promotions: 0.985
+"
+i want to see promotions,"promotions: 0.964
+"
+I wanna see promotions,"promotions: 0.992
+"
+tell me the deals,"promotions: 0.986
+"
+what offer do you have,"promotions: 0.994
+"
+do you offer discount,"promotions: 0.938
+"
+Enrich point promo,"promotions: 0.997
+"
+promotion for vacation,"promotions: 0.996
+"
+Big point promo,"promotions: 0.999
+"
+know about spa promotion,"promotions: 0.975
+"
+know about fashion promotion,"promotions: 0.974
+"
+info about dining promotion,"promotions: 0.962
+"
+any promotion for restaurant,"promotions: 0.997
+"
+any promotion for buffet,"promotions: 1
+"
+Black Friday promotion,"promotions: 0.98
+"
+promotion for card points,"promotions: 0.797
+Products and Services: 0.611
+"
+promotion for cashback,"promotions: 0.949
+"
+affin reward points,"promotions: 0.862
+"
+any 1-1 sale,"promotions: 0.423
+"
+any 2-2 sale,"promotions: 0.656
+"
+any 3-3 sale,"im-getting-the-system-error-fs003: 0.422
+"
+any 4-4 sale,"branch-operation-hours: 0.138
+"
+any 5-5 sale,"promotions: 0.966
+"
+any 6-6 sale,"promotions: 0.518
+Products and Services: 0.983
+"
+any 7-7 sale,"Products and Services: 0.511
+"
+any 8-8 sale,"promotions: 0.217
+"
+any 9-9 sale,"promotions: 1
+Products and Services: 0.628
+"
+any 10-10 sale,"promotions: 0.98
+"
+any 11-11 sale,"promotions: 0.829
+Products and Services: 0.909
+"
+any 12-12 sale,"promotions: 0.768
+"
+Chinese New Year,"promotions: 0.923
+"
+any Ramadhan promo,"promotions: 0.984
+"
+any Hari Raya promo,"promotions: 0.998
+"
+any Deepavali promo,"promotions: 0.961
+"
+any Diwali promo,"promotions: 0.987
+"
+any Christmas promo,"promotions: 0.771
+"
+any New Year promo,"promotions: 0.95
+"
+Hari Raya Puasa,"promotions: 0.899
+"
+nak tau promosi,"promotions: 0.912
+"
+ada promosi apa,"promotions: 0.493
+fd-rates-promotion_dsqbmv: 0.758
+"
+ada diskaun tak,"liveagent: 0.31
+"
+ada apa offer,"promotions: 0.537
+"
+nak tau promosi terkini,"promotions: 0.966
+"
+ada promo apa,"promotions: 0.221
+fd-rates-promotion_dsqbmv: 0.992
+"
+nak tahu promo produk,"promotions: 0.859
+Products and Services: 0.411
+"
+apa promosi best,"promotions: 0.914
+"
+nak tanya promosi kad,"promotions: 0.588
+"
+promosi terbaru,"promotions: 0.997
+"
+promosi berkaitan produk,"promotions: 0.903
+Products and Services: 0.719
+"
+nak tahu diskaun terbaru,"promotions: 0.458
+"
+offer yang best,"promotions: 0.972
+"
+ada promo bercuti tak,"promotions: 0.703
+fd-rates-promotion_dsqbmv: 0.309
+"
+ada promo Zalora,"promotions: 0.989
+"
+ada promo Shopee,"promotions: 0.99
+"
+ada promo MyDebit,"promotions: 0.965
+"

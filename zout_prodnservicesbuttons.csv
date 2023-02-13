@@ -1,0 +1,274 @@
+Utterance,Intents
+Savings,"promotions: 0.301
+Products and Services: 0.82
+"
+Card Plan,"Products and Services: 0.932
+"
+Open Account Over-the-counter,"what-are-documents-required-to-open-company-current-account: 0.294
+"
+Open Account via A1addin Digital Bank App,"a-1-addin-and-affinalways-linkage: 0.46
+"
+Savings Account,"Products and Services: 0.773
+"
+Current Account,"Products and Services: 0.224
+"
+Current,"promotions: 0.495
+main menu: 0.294
+"
+Fixed,"e-statement: 0.004
+"
+Education,"Products and Services: 0.863
+"
+Personal,"i-want-to-apply-for-a-personal-loan: 0.103
+"
+Personal Consumption,"Products and Services: 0.144
+"
+Rates,"cashback-mechanism: 0.412
+"
+Unit Trust,"Products and Services: 0.055
+"
+FD/TD-i,"how-do-you-calculate-fd-interest: 0.149
+"
+Debit Cards,"Products and Services: 0.802
+"
+Travel Cards,"Products and Services: 0.987
+"
+Cashback Cards,"Products and Services: 0.571
+cashback-mechanism: 0.309
+"
+Rewards,"promotions: 0.986
+stupid: 0.216
+"
+Petrol,"stupid: 0.735
+Products and Services: 0.33
+"
+Card Activation,"how-to-do-instant-transfer-via-atm: 0.804
+"
+Setting / Changing PIN,"card-maintenance: 0.043
+"
+Increase Credit Limit,"what-happens-if-i-pay-more-than-my-monthly-instalment: 0.908
+"
+eStatement,"maintenance-form: 0.04
+"
+Auto Debit,"Products and Services: 0.714
+"
+Foreign Currency,"Products and Services: 0.392
+"
+Download eStatement,"Products and Services: 0.024
+"
+Auto,"Products and Services: 0.212
+what-color-you-like: 0.209
+"
+Home,"main menu: 0.97
+"
+Business Premise,"what-are-documents-required-to-open-company-current-account: 0.974
+"
+Gold,"Products and Services: 0.462
+"
+Life,"main menu: 0.135
+"
+Health,"Products and Services: 0.088
+"
+Deposit-invikta,"what-is-the-minimum-amount-to-place-a-fixed-deposit: 0.077
+"
+Home Protection,"Products and Services: 0.649
+"
+Vehicle,"Products and Services: 0.76
+"
+Personal Accident,"end chat: 0.021
+"
+Travel,"Products and Services: 0.173
+"
+Credit Card-avance,"Products and Services: 0.632
+"
+Deposit-avance,"initial-deposit: 0.204
+"
+Wealth Solutions,"promotions: 0.711
+Products and Services: 0.559
+"
+Deposit,"what-is-the-minimum-amount-to-place-a-fixed-deposit: 0.476
+"
+Loans and Financing,"Products and Services: 0.716
+collateral-for-loan: 0.466
+"
+Protection,"Products and Services: 0.138
+"
+Prepaid Cards,"Products and Services: 0.985
+"
+Fixed Deposit,"what-is-the-minimum-amount-to-place-a-fixed-deposit: 0.13
+"
+Over-the-counter,"how-to-do-instant-transfer-via-atm: 0.013
+"
+ASNB,"main menu: 0.702
+"
+Credit Card-invikta,"Products and Services: 0.644
+"
+FD/TD-i Placement,"how-do-you-calculate-fd-interest: 0.328
+"
+Supplementary Card Application,"Products and Services: 0.758
+"
+Via A1addin Digital Bank App,"transfer-to-a-1-addin-account: 0.222
+a-1-addin-and-affinalways-linkage: 0.637
+"
+AffinAlways Login,"joint-account-a-1-addin: 0.475
+"
+AffinAlways Forgot Password,"forgot-username: 0.353
+"
+Telegraphic Transfer,"telegraphic-transfer: 0.998
+"
+Transfer-DuitNow,"transfer-via-duitnow: 0.546
+"
+Schedule Transactions,"branch-operation-hours: 0.394
+"
+Third Party,"transfer-via-duitnow: 0.061
+"
+Download e-Statement,"e-statement: 0.355
+"
+AFFINMAX Login,"how-to-download-bank-statement: 0.309
+"
+AFFINMAX First Time Login,"affinmax-secure-registration: 0.245
+"
+AFFINMAX Forgot Password,"affinsecure-forgot-pin: 0.288
+"
+RENTAS,"main menu: 0.079
+"
+Direct Debit,"how-to-do-instant-transfer-via-atm: 0.136
+"
+Payment Solutions - DuitNow,"Products and Services: 0.029
+"
+FPX,"how-do-you-calculate-fd-interest: 0.105
+"
+See Features & Benefits,"Products and Services: 0.422
+"
+Download App,"does-affin-bank-have-mobile-apps: 0.961
+liveagent: 0.404
+"
+A1addinbiz Download App,"a-1-addin-and-affinalways-linkage: 0.756
+joint-account-a-1-addin: 0.299
+"
+Transfer 3rd Party,"register-fav-transfer: 0.627
+transfer-via-duitnow: 0.703
+"
+JomPAY,"lets-have-a-chat: 0.051
+"
+QR Pay,"promotions: 0.19
+"
+Payment,"promotions: 0.206
+manage-payment: 0.629
+"
+SME Colony,"fd-placement: 0.013
+"
+Bulk Payment,"bulk-payment-charge-for-autopay: 0.626
+"
+Affin Always-First Time Login,"affinmax-secure-registration: 0.079
+"
+Set Transaction Limit,"online-banking-limit: 0.127
+"
+Digital Token,"Products and Services: 0.451
+"
+TransferDuitNow,"manage-transfer-shedule-transfer: 0.39
+transfer-via-duitnow: 0.429
+"
+A1addinbiz See Features & Benefits,"promotion-rate-e-g-fd-a-1-addin: 0.603
+"
+AffinSecure,"affin-secure-is-down: 0.314
+"
+DuitNow QR,"lets-have-a-chat: 0.025
+"
+Exciting Products,"promotions: 0.692
+stupid: 0.231
+Products and Services: 0.415
+"
+Great Services,"promotions: 0.291
+stupid: 0.3
+"
+Cards,"Products and Services: 0.625
+"
+Deposits,"Products and Services: 0.453
+"
+Loans & Financing,"Products and Services: 0.768
+collateral-for-loan: 0.324
+"
+Investments,"Products and Services: 0.917
+property-loan-for-business: 0.434
+"
+View More,"promotions: 0.516
+main menu: 0.649
+"
+Debit Cards,"Products and Services: 0.802
+"
+Credit Cards,"Products and Services: 0.874
+affin-duo-credit-card-type: 0.206
+"
+Prepaid Cards,"Products and Services: 0.985
+"
+Find Me the Right Card,"Products and Services: 0.74
+"
+Card Plan,"Products and Services: 0.932
+"
+Get help with Card Maintenance,"Products and Services: 0.292
+"
+Lost / Stolen Card,"Products and Services: 0.038
+"
+Okay,"change language: 0.804
+main menu: 0.863
+"
+Maybe Laater,"stupid: 0.221
+how-old-are-you: 0.368
+"
+Foreign Current,"change language: 0.039
+"
+Deposit Accounts,"can-i-check-my-balance: 0.744
+"
+Deposit Services,"Products and Services: 0.416
+"
+Interest ,"promotions: 0.633
+"
+Open Acc,"promotions: 0.467
+"
+Via AffinAlways Internet Banking ,"online-banking-limit: 0.188
+"
+no,"stupid: 0.895
+"
+FD/TD-i,"how-do-you-calculate-fd-interest: 0.149
+"
+Auto,"Products and Services: 0.212
+what-color-you-like: 0.209
+"
+loans home,"Products and Services: 0.357
+"
+Rates,"cashback-mechanism: 0.412
+"
+Affin Avance,"promotions: 0.098
+"
+Affin Invikta,"main menu: 0.049
+"
+A1addin,"main menu: 0.269
+a-1-addin-and-affinalways-linkage: 0.7
+"
+AffinAlways,"promotions: 0.185
+"
+AFFINMAX,"how-to-download-bank-statement: 0.518
+"
+SME Colony,"fd-placement: 0.013
+"
+Contact Us,"liveagent: 0.318
+"
+Need Help!,"main menu: 0.476
+help: 0.664
+"
+Transfer,"manage-transfer-shedule-transfer: 0.443
+how-to-do-instant-transfer-via-atm: 0.26
+transfer-limit: 0.631
+"
+View More,"promotions: 0.516
+main menu: 0.649
+"
+Manage Account,"what-are-documents-required-to-open-company-current-account: 0.026
+"
+Payment Solutions,"Products and Services: 0.577
+"
+Collection Solutions,"Locate Branch: 0.201
+"
+A1addinbizz,"a-1-addin-and-affinalways-linkage: 0.732
+"

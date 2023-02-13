@@ -1,0 +1,39 @@
+Utterance,Intents
+can i give feedback for the products ,"feedback: 0.985
+"
+i want to give feedback ,"feedback: 1
+"
+I have feedback ,"feedback: 1
+"
+I want to complain,"feedback: 0.985
+"
+I have complaint,"feedback: 0.998
+"
+I have response,"feedback: 1
+"
+saya nak komplen,"feedback: 0.956
+"
+saya ada maklumbalas,"feedback: 0.963
+"
+saya ada cadangan,"feedback: 0.965
+"
+saya nak bagi cadangan,"feedback: 0.897
+"
+saya nak komplen,"feedback: 0.956
+"
+bank ni teruklah,"branch-operation-hours: 0.026
+"
+bank ni tak faham ke,"vacancy-practical-inquiry: 0.034
+"
+boleh beri cadangan,"feedback: 0.272
+"
+feedback,"feedback: 0.997
+"
+complaint,"feedback: 0.257
+"
+complain,"feedback: 0.012
+"
+komplen,"feedback: 0.074
+"
+maklumbalas,"feedback: 0.129
+"

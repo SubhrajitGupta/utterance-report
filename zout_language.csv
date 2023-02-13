@@ -1,0 +1,40 @@
+Utterance,Intents
+chat in english,"change language: 1
+"
+chat in malay,"change language: 1
+"
+talk in malay,"change language: 1
+"
+speak in malay,"change language: 1
+"
+i want to change the language,"change language: 0.987
+"
+change language to malay,"change language: 1
+"
+i understand malay,"change language: 1
+"
+cakap dalam bm,"change language: 0.785
+"
+cakap bahasa malaysia,"change language: 0.992
+"
+cakap bahasa melayu,"change language: 1
+"
+cakap melayu lah,"change language: 0.574
+"
+tukar bahasa inggeris,"change language: 1
+"
+cakap bi pls,"change language: 0.381
+"
+cakap bahasa inggeris,"change language: 1
+"
+tak faham inggeris,"change language: 0.979
+liveagent: 0.292
+"
+bahasa apa ni,"change language: 0.992
+"
+tak reti english,"change language: 0.973
+"
+tok pahe inggeris,"change language: 0.993
+"
+apeni bahasa manusia pls,"change language: 0.785
+"

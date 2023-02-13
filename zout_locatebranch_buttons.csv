@@ -1,0 +1,539 @@
+Utterance,Intents
+Kedah,"main menu: 0.313
+"
+Selangor,"main menu: 0.603
+"
+Kuala Lumpur,"change language: 0.444
+"
+Johor,"main menu: 0.315
+"
+Negeri Sembilan,"promotions: 0.581
+"
+Sarawak,"change language: 0.14
+"
+Penang,"end chat: 0.022
+"
+Pahang,"main menu: 0.095
+"
+Malacca,"change language: 0.976
+"
+Terengganu,"promotions: 0.025
+"
+Perak,"Products and Services: 0.238
+"
+Perlis,"promotions: 0.026
+"
+Sabah,"promotions: 0.571
+main menu: 0.545
+"
+Putrajaya,"change language: 0.031
+"
+Kelantan,"main menu: 0.072
+"
+Persiaran Sultan Abdul Hamid,"change language: 0.329
+"
+Langkawi Mall,"promotions: 0.555
+"
+Batu Caves,"liveagent: 0.01
+"
+Kaw Rehat Lebuhraya Cheras-Kajang,"change language: 0.155
+"
+Taman Connaught,"lets-have-a-chat: 0.037
+"
+Jalan Bunga Mawar 1,"e-statement: 0.057
+"
+Jalan Maharajalela,"promotions: 0.345
+"
+Jalan Elmu,"main menu: 0.053
+"
+Jalan 222,"Products and Services: 0.752
+"
+Batu 8,"Products and Services: 0.055
+"
+Desa Melawati,"promotions: 0.079
+"
+Kuala Lumpur,"change language: 0.444
+"
+Jalan Ampang,"promotions: 0.122
+"
+Wangsa Maju,"promotions: 0.051
+"
+Persiaran Bukit Raja,"lets-have-a-chat: 0.007
+"
+Klang,"main menu: 0.102
+"
+Jalan Kenanga,"promotions: 0.157
+"
+Jalan PJS 8/1,"maintenance-form: 0.139
+"
+Persiaran Damai,"Locate Branch: 0.02
+"
+Danga Bay,"main menu: 0.079
+"
+Laman Niaga Pernama,"promotions: 0.022
+"
+Kompleks PKNS,"maintenance-form: 0.181
+"
+KIP Sentral Kota Warisan,"promotions: 0.609
+Products and Services: 0.264
+liveagent: 0.294
+"
+Management & Science University (MSU),"what-are-documents-required-to-open-company-current-account: 0.023
+"
+Boulevard Commercial Center,"promotions: 0.989
+"
+Port Klang,"change language: 0.354
+"
+Fortune Avenue,"promotions: 0.23
+"
+Jalan Genting Kelang,"promotions: 0.019
+"
+Taman City,"promotions: 0.591
+"
+Jalan Anson,"promotions: 0.023
+"
+Jalan Tebrau,"change language: 0.037
+"
+Jalan Purnama 6,"Products and Services: 0.269
+"
+Jalan Broga,"promotions: 0.069
+"
+Jalan Klang Lama,"forgot-password: 0.093
+"
+Jalan Bukit Kemuning,"e-statement: 0.02
+"
+Jalan Perbandaran 14/9,"promotions: 0.799
+"
+Peramu,"main menu: 0.16
+"
+Senai,"liveagent: 0.111
+"
+Jalan Johor,"promotions: 0.106
+"
+Wisma FELCRA,"lets-have-a-chat: 0.014
+"
+Jalan Conlay,"how-do-i-withdraw-my-fd: 0.013
+"
+Seksyen 13,"how-old-are-you: 0.132
+"
+Peringgit,"change language: 0.031
+"
+Jalan Panglima Awang,"promotions: 0.032
+"
+Taman Engku Tun Aminah,"change language: 0.131
+"
+Sepang,"main menu: 0.268
+"
+Tg Serkap,"feedback: 0.038
+"
+Bukit Mertajam,"liveagent: 0.026
+"
+Bandar Muâ€™adzam Shah,"a-1-addin-and-affinalways-linkage: 0.016
+"
+Jalan Sultan Ismail,"change language: 0.591
+"
+Taman Mutiara Rini,"Locate Branch: 0.011
+"
+Perdana Heights,"liveagent: 0.131
+"
+Taman Delima Raya,"Locate Branch: 0.252
+"
+Taman Melaka Raya,"Locate Branch: 0.108
+"
+Taman Semarak Phase II,"promotions: 0.006
+"
+Jalan Mahajaya,"promotions: 0.272
+"
+Bandar Pusat Jengka,"liveagent: 0.195
+"
+Menara Zenith,"liveagent: 0.615
+"
+Jalan Bunga Raya,"promotions: 0.364
+"
+Jalan Ahmad Shah,"promotions: 0.294
+"
+Jalan Nakhoda,"main menu: 0.026
+"
+Taman Sitiawan 1,"main menu: 0.029
+"
+Jalan Tupai,"main menu: 0.082
+"
+Medan Sri Intan,"change language: 0.052
+"
+Taman Pertiwi Indah,"Locate Branch: 0.216
+"
+Taman Sri Tunas,"how-do-you-calculate-fd-interest: 0.163
+"
+Taman Inderawasih,"Locate Branch: 0.146
+"
+Wisma Pelaut,"change language: 0.027
+"
+Jalan Silam,"promotions: 0.05
+"
+Jalan Prima Square,"promotions: 0.287
+"
+Taman Selat,"main menu: 0.063
+"
+Jalan Hj. Karim,"e-statement: 0.055
+"
+Parkcity Commerce Square,"promotions: 0.97
+"
+Jalan Penrissen Batu 7,"Products and Services: 0.069
+"
+Jln Kampung Nyabor,"Locate Branch: 0.033
+"
+Tabuan Tranquility,"Locate Branch: 0.277
+"
+Wisma 41,"lets-have-a-chat: 0.043
+"
+Jalan Saga,"e-statement: 0.052
+"
+Bandar Baru Klang,"promotions: 0.376
+"
+Kompleks Kementerian Kewangan,"transfer-to-a-1-addin-account: 0.014
+"
+Taman Molek,"change language: 0.34
+"
+Taman Tengku Maheran Fasa 4,"Locate Branch: 0.012
+"
+Jalan Perusahaan,"what-are-documents-required-to-open-company-current-account: 0.591
+sponsorship-proposal: 0.339
+"
+Jalan SS 2/24,"Products and Services: 0.201
+how-do-i-waive-rm25-sst: 0.316
+"
+Bandar Baru Bangi,"promotions: 0.212
+"
+Pusat Bandar Senawang,"maintenance-form: 0.369
+liveagent: 0.255
+"
+Taman Johor Jaya,"change language: 0.034
+"
+Jln Dato' Bandar Tunggal,"liveagent: 0.015
+"
+Jalan Ipoh,"main menu: 0.148
+"
+Taman Maluri,"liveagent: 0.035
+"
+Pusat Perdagangan Seri Kembangan,"maintenance-form: 0.37
+"
+Jalan Yong Shook Lin,"lets-have-a-chat: 0.034
+"
+Jalan Dato' Bandar Tunggal,"liveagent: 0.033
+"
+Jalan Parameswara,"change language: 0.012
+"
+Taman Bukit Pasir,"how-do-you-calculate-fd-interest: 0.256
+"
+Kebun Teh Commercial City,"promotions: 0.395
+"
+Kemaman Supply Base,"maintenance-form: 0.061
+"
+Jalan Arab,"change language: 0.427
+Products and Services: 0.693
+main menu: 0.335
+"
+Jalan Sultan Ibrahim,"change language: 0.844
+"
+Kompleks Sultan Abdul Hamid,"change language: 0.489
+"
+Kulim Landmark Central,"promotions: 0.922
+"
+Jalan Macalister,"promotions: 0.027
+"
+Greentown Business Centre,"promotions: 0.153
+"
+Jalan Gaya,"promotions: 0.032
+"
+Jalan Tuanku Abdul Rahman,"change language: 0.808
+"
+Jalan Genting Klan,"what-are-documents-required-to-open-company-current-account: 0.007
+"
+Basco Business Centre,"promotions: 0.462
+Products and Services: 0.369
+joint-account-a-1-addin: 0.559
+"
+Jalan Raja Chulan,"promotions: 0.152
+"
+Jalan Sri Perkasa,"promotions: 0.169
+"
+Jalan Ikan Juara,"promotions: 0.901
+"
+Jalan Sultan Azlan Shah Utara,"a-1-addin-and-affinalways-linkage: 0.242
+"
+Medan Meru Bestari,"promotions: 0.017
+"
+Sendayan Metro Park,"promotions: 0.222
+"
+MyTown Shopping Centre,"promotions: 0.257
+"
+UiTM Kampus Puncak Alam,"Locate Branch: 0.084
+"
+Juru Interchange,"liveagent: 0.041
+"
+TUDM Alor Setar,"feedback: 0.867
+liveagent: 0.203
+"
+Menara Bina Darulaman,"joint-account-a-1-addin: 0.021
+"
+Ampang Point,"main menu: 0.016
+"
+Bandar Baru Ampang,"promotions: 0.217
+"
+Jalan PJU,"promotions: 0.091
+"
+Pangkalan TUDM Subang,"Locate Branch: 0.018
+"
+Jalan Batu Pahat,"change language: 0.156
+"
+Tg Sembrong,"feedback: 0.046
+"
+Jalan Batu Nilam 5,"how-do-i-waive-rm25-sst: 0.208
+"
+Bangsar Baru,"forgot-password: 0.026
+"
+Jalan Batu Putih,"Products and Services: 0.447
+"
+Jalan Senggarang-Rengit,"change language: 0.077
+"
+Mukim Sri Gading,"change language: 0.096
+"
+Lebuh Ayer Keroh,"promotions: 0.056
+"
+TUDM Butterworth,"a-1-addin-and-affinalways-linkage: 0.003
+"
+Shaftsbury Square,"e-statement: 0.127
+"
+Seksyen U 16,"change language: 0.03
+"
+Prima Tanjung Business Centre,"promotions: 0.173
+"
+Fraser Business Park,"promotions: 0.079
+"
+Ipoh,"main menu: 0.642
+"
+Mk Belanja,"promotions: 0.607
+"
+Kompleks Mutiara Pernama,"promotions: 0.025
+"
+Taman Canning,"sponsorship-proposal: 0.109
+"
+Sungai Siput,"have-you-eat: 0.016
+"
+Jalan Bunus,"change language: 0.011
+"
+Jalan Munshi Abdullah,"change language: 0.203
+"
+PKLN TLDM Kota Kinabalu,"change language: 0.633
+"
+Pelangi Avenue,"promotions: 0.337
+"
+Jalan Meru,"change language: 0.12
+"
+Bukit Bunga,"Locate Branch: 0.078
+"
+Jalan Dato Onn,"change language: 0.061
+"
+Kawasan Perusahaan Larkin,"what-are-documents-required-to-open-company-current-account: 0.155
+"
+Jalan Besar,"promotions: 0.266
+"
+Austin Heights Water & Adventure Park,"how-many-options-of-maturity-for-efd-and-etdi: 0.053
+"
+Jalan Tengku Mizan,"change language: 0.062
+"
+Lorong Malinja,"lets-have-a-chat: 0.3
+"
+Desa Jaya,"main menu: 0.187
+"
+Jalan Kepong,"promotions: 0.082
+"
+Kem Askar Sg Buloh,"change language: 0.056
+"
+Taman Kinrara,"liveagent: 0.026
+"
+Bukit Jalil,"main menu: 0.011
+"
+Kluang,"main menu: 0.041
+"
+Kem Mahkota,"change language: 0.119
+"
+Kota Bharu,"change language: 0.017
+"
+Jertih,"lets-have-a-chat: 0.01
+"
+Dataran Cascades,"how-to-do-instant-transfer-via-atm: 0.033
+"
+Kawasan Rehat Dan Rawat Sg Buloh,"how-do-you-calculate-fd-interest: 0.029
+"
+Seksyen 31,"how-old-are-you: 0.003
+"
+Bandar Saujana Putra,"change language: 0.021
+"
+Sadong Jaya,"feedback: 0.174
+"
+Markas Briged Ke 4,"lets-have-a-chat: 0.009
+"
+Tabuan Jaya,"i-am-lonely: 0.07
+"
+Bandar Indahpura,"promotions: 0.327
+"
+Jalan Bukit Bintang,"promotions: 0.201
+"
+Lumut,"main menu: 0.11
+"
+Jalan Karak,"change language: 0.044
+"
+Jalan Kesang,"promotions: 0.168
+"
+Lebuhraya Utara Selatan,"change language: 0.065
+"
+Jalan Teratai,"change language: 0.141
+"
+Jalan Permas,"Products and Services: 0.196
+"
+Jalan Permas 10/10,"promotions: 0.474
+"
+Regimen 501 (Askar Wataniah) Kem Tebrau,"how-do-you-calculate-fd-interest: 0.011
+"
+KD Sultan Ismail,"change language: 0.481
+"
+Jalan Pantai,"promotions: 0.708
+Products and Services: 0.214
+"
+Port Dickson,"change language: 0.474
+"
+Lebuhraraya Pulai Indah,"change language: 0.024
+"
+Prai,"main menu: 0.22
+"
+Penrissen Road,"forgot-password: 0.023
+"
+Persiaran Wawasan,"liveagent: 0.142
+"
+Bandar Puchong Jaya,"affin-secure-is-down: 0.066
+"
+Pusat Pentadbiran Kerajaan Persekutuan,"maintenance-form: 0.046
+"
+Persiaran Perdana Presint 4,"liveagent: 0.083
+"
+Sea Park,"promotions: 0.788
+how-do-you-calculate-fd-interest: 0.445
+"
+Jalan 19/1-B,"Products and Services: 0.107
+"
+Jalan Todak Satu,"promotions: 0.044
+"
+Bandar Segamat Baru,"promotions: 0.772
+"
+Jalan Kuching,"promotions: 0.174
+"
+KL-Karak Highway,"Products and Services: 0.018
+"
+Bandar Sri Sendayan,"change language: 0.032
+"
+Sungai Besi,"branch-operation-hours: 0.091
+"
+Seri Kembangan,"maintenance-form: 0.011
+"
+Bandar Baru Seri Petaling,"promotions: 0.315
+"
+Jalan Hujan Emas 4,"transfer-to-a-1-addin-account: 0.019
+"
+Setapak,"main menu: 0.19
+"
+Taman Batik,"change language: 0.08
+"
+Seksyen 14,"how-old-are-you: 0.113
+"
+Jalan Persiaran Perbandaran,"Products and Services: 0.035
+"
+Jalan Jenulung 17/21,"transfer-via-duitnow: 0.056
+"
+Jalan Tunku Abdul Rahman,"change language: 0.493
+"
+Sibu Jaya,"change language: 0.232
+"
+Subang Jaya,"Locate Branch: 0.054
+"
+Simpang Lima,"promotions: 0.04
+"
+Taman Midah,"i-have-tac-issue_hwdlax: 0.025
+"
+Batu 4 1/4,"e-statement: 0.005
+"
+Persiaran Molek Utama,"maintenance-form: 0.187
+"
+Jalan Ros Merah Utama,"promotions: 0.073
+"
+Taman Desa Jaya,"Locate Branch: 0.256
+"
+Petronas Rapid Project,"how-to-perform-jompay: 0.032
+"
+OUIJV Camp Phase 3,"im-getting-the-system-error-fs003: 0.146
+"
+Ulu Tiram,"change language: 0.098
+"
+Taman Tun Dr. Ismail,"update-email-to-receive-statement-via-email: 0.368
+"
+Jalan Pinggir Zaaba,"Products and Services: 0.104
+"
+Taman Tampoi Utama,"Locate Branch: 0.048
+"
+Kampong Pasir,"Products and Services: 0.101
+"
+Lebuhraya Utara-Selatan (Arah Selatan),"promotion-rate-e-g-fd-a-1-addin: 0.084
+"
+Mutiara Damansara,"change language: 0.044
+"
+Jalan PJU 7/1 & PJU 7/5,"liveagent: 0.072
+"
+Menara Sultan Abdul Aziz Shah,"a-1-addin-and-affinalways-linkage: 0.226
+promotion-rate-e-g-fd-a-1-addin: 0.204
+"
+Persiaran Tengku Ampuan,"e-statement: 0.035
+"
+UiTM Shah Alam,"promotions: 0.01
+"
+Taipan Business Centre,"promotions: 0.216
+"
+Kuala Lumpur Sub-Urban Centre,"change language: 0.583
+"
+Hulu Klang,"main menu: 0.028
+"
+Kawasan Perindustrian Bukit Raja Selatan,"maintenance-form: 0.218
+"
+Jalan Buku Lima,"can-i-check-my-balance: 0.123
+"
+Jalan Padang Tembak,"promotions: 0.051
+"
+Kuantan,"main menu: 0.084
+"
+Desa ParkCity,"promotions: 0.408
+"
+Cheras,"main menu: 0.076
+"
+Tun Razak Exchange,"change language: 0.068
+"
+Jalan Yong Shook Li,"lets-have-a-chat: 0.102
+"
+Bukit Baru,"how-old-are-you: 0.022
+"
+Jalan Skudai,"change language: 0.03
+"
+yes,"feedback: 0.247
+main menu: 0.73
+"
+no,"you-are-boring: 0.647
+liveagent: 0.399
+"
+Locate More Facilities,"maintenance-form: 0.567
+"
+mm,"main menu: 0.314
+"
+Talk to a Live Agent,"liveagent: 1
+"
+End Chat,"end chat: 0.993
+"
+Nearest Locations,"Locate Branch: 0.853
+"

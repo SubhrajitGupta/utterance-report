@@ -1,0 +1,246 @@
+Utterance,Intents
+what are the cards u offer,"Products and Services: 0.81
+"
+Which is your most recommended card,"Products and Services: 0.255
+"
+which card is for shopping,"change-phone-number-for-debit-card-credit-card: 0.774
+card-maintenance: 0.214
+Products and Services: 0.929
+"
+can you recommend a card for me,"Products and Services: 0.893
+"
+i want to apply for petrol card,"Products and Services: 0.562
+"
+how to apply instalment for card,"Products and Services: 0.509
+"
+which card got cashback,"Products and Services: 0.416
+"
+i wanna convert balance to instalment,"promotion-rate-e-g-fd-a-1-addin: 0.011
+"
+which card is good for travel,"Products and Services: 0.972
+"
+kad mana lagi best,"how-old-are-you: 0.031
+"
+kad untuk cash back ada,"cashback-mechanism: 0.083
+"
+kad untuk shopping ada,"Products and Services: 0.342
+"
+boleh compare kad tak,"Products and Services: 0.019
+"
+how to apply credit card,"pay-to-credit-card: 0.427
+Products and Services: 0.747
+"
+how can i apply credit card,"pay-to-credit-card: 0.367
+"
+I want to know about credit card,"Products and Services: 0.997
+"
+how can i get the information of prepaid cards,"Products and Services: 0.157
+"
+i want to know about prepaid cards,"Products and Services: 0.993
+"
+i want to know about debit cards,"Products and Services: 0.979
+"
+i want to transfer balance of credit card,"Products and Services: 0.306
+"
+i wanna transfer balance credit card,"Products and Services: 0.322
+"
+i want to transfer balance credit card,"Products and Services: 0.214
+"
+I want to know about accounts,"Products and Services: 0.59
+"
+I wanna open account,"open-a-basic-savings-account: 0.883
+"
+how to open account,"open-a-basic-savings-account: 0.999
+"
+can i open FD online,"fd-placement: 0.035
+"
+need to know about savings account,"Products and Services: 0.99
+"
+what kinds of savings account do you offer,"Products and Services: 0.459
+"
+need to know about Foreign Currency,"Products and Services: 0.887
+do-you-have-foreign-fixed-deposit: 0.222
+"
+can u pls give information about Fixed Deposit,"what-is-the-minimum-amount-to-place-a-fixed-deposit: 0.754
+Products and Services: 0.26
+"
+need to know about Fixed Deposit,"Products and Services: 0.517
+"
+how can i get to know about savings account,"Products and Services: 0.617
+"
+can u pls give information about current account,"Products and Services: 0.533
+"
+need to know about current account,"Products and Services: 0.894
+"
+how to open affin account,"what-are-documents-required-to-open-company-current-account: 0.566
+open-a-basic-savings-account: 1
+"
+nak menabung,"Products and Services: 0.045
+"
+nak buka akaun,"promotions: 0.034
+"
+akaun untuk anak,"joint-account-a-1-addin: 0.219
+"
+boleh bukak akaun online,"open-a-basic-savings-account: 0.09
+"
+akaun apa yang tinggi interest,"Products and Services: 0.311
+"
+boleh buka akaun online tak,"joint-account-a-1-addin: 0.017
+"
+menabung untuk pendidikan,"Products and Services: 0.063
+"
+nak tutup akaun,"end chat: 0.154
+"
+What is your FD rate,"fd-rates-promotion_dsqbmv: 0.799
+"
+I want to know about Interest Rates,"Products and Services: 0.733
+"
+I want to know about deposit account,"Products and Services: 0.847
+"
+I wanna apply for loan,"collateral-for-loan: 0.72
+"
+i wanna ask abt car loan,"Products and Services: 0.968
+"
+What is the interest rate for car loan,"Products and Services: 0.452
+"
+i would like to know about car loan,"Products and Services: 0.996
+"
+i would like to know about vehicle loan,"Products and Services: 0.998
+"
+what is the requirements for loan application,"loan-process-tat: 0.239
+"
+nak beli rumah,"Products and Services: 0.459
+"
+macamana nak buat loan,"Products and Services: 0.142
+"
+boleh tak nak buat pinjaman,"Products and Services: 0.027
+"
+nak buat joint loan,"collateral-for-loan: 0.028
+"
+nak buat loan bersama,"Products and Services: 0.071
+"
+nak beli tanah,"collateral-for-loan: 0.292
+"
+nak beli kedai,"promotions: 0.604
+"
+Loans and Financing,"Products and Services: 0.25
+"
+How to apply house loan,"Products and Services: 0.284
+"
+can i know about home loan,"Products and Services: 0.908
+property-loan-for-business: 0.212
+"
+can i know about house loan,"Products and Services: 0.732
+property-loan-for-business: 0.262
+"
+What is the interest rate for house loan,"Products and Services: 0.145
+"
+can i know about auto loan,"Products and Services: 0.658
+"
+Do you have education loan,"Products and Services: 0.497
+"
+Do you offer education loan,"Products and Services: 0.643
+"
+need to know about mortgage,"Products and Services: 0.685
+"
+i wish to apply for hire purchase,"Products and Services: 0.549
+"
+details about business loan,"property-loan-for-business: 0.089
+"
+can i know more about your financing,"Products and Services: 0.375
+"
+i want to know about Investments,"Products and Services: 0.992
+"
+what are the investment products you have,"Products and Services: 0.97
+"
+how to buy ASNB,"Products and Services: 0.938
+"
+how to purchase ASNB,"Products and Services: 0.938
+"
+can i open ASNB account,"open-a-basic-savings-account: 0.336
+"
+how to open ASNB account,"open-a-basic-savings-account: 0.99
+"
+wish to know about unit trust,"Products and Services: 0.575
+"
+how to buy unit trust,"Products and Services: 0.88
+"
+which unit trust suits me,"Products and Services: 0.657
+"
+i'm interested in gold,"Products and Services: 0.812
+"
+how to purchase gold,"Products and Services: 0.862
+"
+can you tell me about ASB,"Products and Services: 0.924
+"
+I'm interested to invest,"Products and Services: 0.941
+"
+info about insurance,"how-do-you-calculate-fd-interest: 0.334
+Products and Services: 0.999
+"
+infor about bancassurance,"how-do-i-waive-rm25-sst: 0.029
+"
+i want to buy motor insurance,"Products and Services: 0.987
+"
+i want to buy auto insurance,"Products and Services: 0.985
+"
+more info about coverage,"maintenance-form: 0.491
+promotions: 0.339
+Products and Services: 0.785
+"
+do you offer medical card,"Products and Services: 0.92
+"
+tell me about your medical insurance,"Products and Services: 0.993
+"
+info about fire insurance,"can-i-get-refund-for-my-fire-insurance: 0.963
+Products and Services: 0.932
+"
+i'm interested in takaful,"feedback: 0.542
+"
+info about behicle insurance,"Products and Services: 0.998
+"
+insurans pelancongan,"promotions: 0.343
+Products and Services: 0.464
+"
+details about life insurance,"Products and Services: 0.956
+"
+what kind of protection do you offer,"Products and Services: 0.754
+"
+how to buy travel insurance,"how-to-transfer-funds-to-tabung-haji: 0.397
+Products and Services: 0.997
+"
+I want to get travel protection,"Products and Services: 0.716
+"
+do you offer home insurance,"Products and Services: 0.979
+"
+what is affin avance about,"how-to-register-for-affinsecure: 0.125
+"
+how to apply affin avance,"Products and Services: 0.16
+"
+what is affin invikta about,"Products and Services: 0.242
+"
+how to apply affin invikta,"Products and Services: 0.547
+"
+how can i transfer credit card balance to Affin card,"guide-customer-on-how-to-perform-trx-in-affinmax: 0.044
+"
+how can i get the information of debit cards,"Products and Services: 0.095
+"
+what is the minimum amount for FD placement,"how-do-you-calculate-fd-interest: 0.066
+"
+need information about Foreign Currency,"Products and Services: 0.763
+"
+akaun untuk dewasa,"transfer-to-a-1-addin-account: 0.099
+"
+menabung untuk hari tua,"improving-system: 0.048
+"
+what is the interest rate for junior account,"vacancy-practical-inquiry: 0.063
+"
+how can i know about Interest Rates,"Products and Services: 0.313
+"
+What is the interest rate for home loan,"Products and Services: 0.337
+"
+What is the interest rate for personal loan,"i-want-to-apply-for-a-personal-loan: 0.841
+"
+info about accident coverage,"maintenance-form: 0.269
+Products and Services: 0.753
+"

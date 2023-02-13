@@ -1,0 +1,88 @@
+Utterance,Intents
+home ,"main menu: 0.926
+"
+go to main menu ,"main menu: 0.921
+"
+hello ,"main menu: 0.948
+"
+hi ,"main menu: 0.978
+"
+hey,"main menu: 0.978
+"
+hey there,"main menu: 0.984
+"
+hi there,"main menu: 0.984
+"
+wassup,"main menu: 0.885
+"
+what's up,"main menu: 0.777
+"
+halu,"main menu: 0.978
+"
+are you there,"main menu: 0.292
+do-you-have-mother: 0.563
+"
+i need help,"main menu: 0.919
+"
+can you assist me,"main menu: 0.749
+"
+i have issues,"main menu: 0.969
+"
+can you help me,"main menu: 0.838
+"
+i have an issue,"main menu: 0.992
+"
+i have a problem,"main menu: 0.984
+"
+i have a question,"main menu: 0.872
+"
+i have questions,"main menu: 0.872
+"
+can i know,"main menu: 0.365
+"
+i want to ask,"main menu: 0.909
+"
+i wanna ask,"main menu: 0.681
+"
+can ask,"Products and Services: 0.212
+"
+anyone there,"main menu: 0.853
+"
+hai,"main menu: 0.978
+"
+semekom,"main menu: 0.439
+"
+assalamualaikum,"main menu: 0.905
+"
+salam,"main menu: 0.883
+"
+ello,"main menu: 0.978
+"
+wey,"main menu: 0.978
+"
+hei,"main menu: 0.978
+"
+oi,"main menu: 0.975
+"
+yuhu,"main menu: 0.978
+"
+ola,"main menu: 0.978
+"
+oit,"main menu: 0.978
+"
+eh,"main menu: 0.981
+"
+boleh tolong tak,"main menu: 0.653
+"
+saya ada masalah,"main menu: 0.934
+"
+saya ada isu,"main menu: 0.943
+"
+tolong,"main menu: 0.963
+"
+soalan,"ask-me-something: 0.148
+"
+saya ada soalan,"main menu: 0.703
+"
+nak tanya,"main menu: 0.109
+"

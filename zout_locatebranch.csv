@@ -1,0 +1,29 @@
+Utterance,Intents
+Cari Cawangan ATM,"Locate Branch: 0.897
+"
+i like to choose the available location	,"Locate Branch: 0.972
+"
+show me nearest loaction,"Locate Branch: 0.987
+"
+i want to know the nearest loaction,"Locate Branch: 0.995
+"
+need to get locate branch flow response,"Locate Branch: 0.983
+"
+i like to select Locate branch,"Locate Branch: 1
+"
+show me details of atm facilities near me,"Locate Branch: 0.982
+"
+apakah kemudahan yang ada,"Locate Branch: 0.893
+"
+tolong saya cari atm,"Locate Branch: 0.973
+"
+apakah lokasi cawangan ,"Locate Branch: 0.91
+"
+apakah cawangan di negeri saya ,"Locate Branch: 0.928
+"
+di mana saya boleh mendapatkan cawangan,"Locate Branch: 0.96
+"
+show me the branches,"Locate Branch: 0.986
+"
+can i know where is your stores are located,"Locate Branch: 0.979
+"

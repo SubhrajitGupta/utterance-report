@@ -1,0 +1,396 @@
+Utterance,Intents
+How old are you?,"how-old-are-you: 0.995
+"
+What is your date of birth?,"how-old-are-you: 0.985
+"
+Are you old?,"how-old-are-you: 0.977
+"
+Are you young?,"how-old-are-you: 0.999
+"
+Are you older than me?,"how-old-are-you: 0.998
+"
+Are you younger than me?,"how-old-are-you: 1
+"
+Are you youth young?,"how-old-are-you: 0.995
+"
+Are youy ugly?,"how-old-are-you: 0.989
+"
+Are you pretty?,"how-old-are-you: 0.992
+"
+Berapa umur awak?,"how-old-are-you: 0.993
+"
+Bila hari lahir awak?,"how-old-are-you: 0.989
+"
+Awak dah tua ke?,"how-old-are-you: 0.982
+"
+Awak muda ke?,"how-old-are-you: 0.999
+"
+Awak lagi tua dari saya ke?,"how-old-are-you: 0.991
+"
+Awak lagi muda dari saya ke?,"how-old-are-you: 0.999
+"
+Awak ni muda remaja ke?,"how-old-are-you: 0.989
+"
+Awak hodoh ke?,"how-old-are-you: 0.769
+"
+Awak cantik tak?,"how-old-are-you: 0.977
+"
+Ask me something,"ask-me-something: 0.973
+"
+Tanya saya sesuatu.,"ask-me-something: 0.993
+"
+Lets have a chat,"lets-have-a-chat: 0.991
+"
+Jom borak.,"lets-have-a-chat: 0.979
+"
+You are boring,"you-are-boring: 1
+"
+You are not attractive,"you-are-boring: 1
+"
+Boring,"you-are-boring: 0.999
+"
+Awak ni membosankan.,"you-are-boring: 1
+"
+Awak tak menarik.,"you-are-boring: 0.977
+"
+Bosannya.,"you-are-boring: 0.995
+"
+What color you like?,"what-color-you-like: 0.999
+"
+What sport you like?,"do-you-like-sport: 0.884
+"
+What animal you like?,"what-color-you-like: 0.999
+"
+What car you like?,"what-color-you-like: 0.998
+"
+What food you like?,"what-color-you-like: 0.942
+"
+What drink you like?,"what-color-you-like: 0.984
+"
+What movie you like?,"what-color-you-like: 0.959
+"
+Do you like me?,"what-color-you-like: 0.989
+"
+Who do you like?,"what-color-you-like: 0.981
+"
+Awak suka warna apa?,"what-color-you-like: 0.998
+"
+Awak suka sukan apa?,"what-color-you-like: 0.962
+"
+Awak suka binatang apa?,"what-color-you-like: 0.999
+"
+Awak suka kereta apa?,"what-color-you-like: 0.999
+"
+Awak suka makanan apa?,"what-color-you-like: 0.979
+"
+Awak suka minum apa?,"what-color-you-like: 0.976
+"
+Awak suka movie apa?,"what-color-you-like: 0.941
+"
+Awak suka saya tak?,"what-color-you-like: 0.852
+"
+Awak suka siapa?,"what-color-you-like: 0.902
+"
+Who do you have crush?,"who-do-you-have-crush: 1
+"
+Who do you like?,"what-color-you-like: 0.981
+"
+Do you have boyfriend?,"who-do-you-have-crush: 0.996
+"
+Do you have girlfriend?,"who-do-you-have-crush: 0.998
+"
+Siapa crush awak?,"who-do-you-have-crush: 0.995
+"
+Awak suka siapa?,"what-color-you-like: 0.902
+"
+Awak ada boyfriend tak?,"who-do-you-have-crush: 0.993
+"
+Awak ada girlfriend tak?,"who-do-you-have-crush: 0.996
+"
+Where are you from?,"where-are-you-from: 0.992
+"
+Where do you live?,"where-are-you-from: 0.993
+"
+Where do you stay?,"where-are-you-from: 0.999
+"
+Why are you still here?,"where-are-you-from: 0.998
+"
+Awak dari mana?,"where-are-you-from: 0.993
+"
+Awak tinggal di mana?,"where-are-you-from: 0.997
+"
+Awak duduk kat mana?,"where-are-you-from: 0.991
+"
+Kenapa awak ada di sini?,"where-are-you-from: 0.984
+"
+Do you have mother?,"do-you-have-mother: 1
+"
+Do you have father?,"do-you-have-mother: 0.993
+"
+Do you have sister?,"do-you-have-mother: 0.998
+"
+Do you have brother?,"do-you-have-mother: 0.995
+"
+Do you have small brother?,"do-you-have-mother: 0.996
+"
+Do you have family?,"do-you-have-mother: 0.998
+"
+Do you have sibling?,"do-you-have-mother: 1
+"
+Awak ada mak tak?,"do-you-have-mother: 0.92
+"
+Awak ada ayah tak?,"do-you-have-mother: 0.992
+"
+Awak ada kakak tak?,"do-you-have-mother: 0.991
+"
+Awak ada abang tak?,"do-you-have-mother: 0.987
+"
+Awak ada adik tak?,"do-you-have-mother: 0.997
+"
+Awak ada keluarga tak?,"do-you-have-mother: 0.997
+"
+Awak ada adik-beradik tak?,"do-you-have-mother: 0.998
+"
+Who is your mentor?,"who-is-your-mentor: 0.99
+"
+How do you exist?,"who-is-your-mentor: 0.998
+"
+Who create you?,"who-is-your-mentor: 1
+"
+Who is the architect produce you?,"who-is-your-mentor: 1
+"
+Who create you?,"who-is-your-mentor: 1
+"
+Siapa yang program awak?,"who-is-your-mentor: 0.984
+"
+Macamana awak boleh wujud?,"who-is-your-mentor: 0.955
+"
+Siapa yang menghasilkan awak?,"who-is-your-mentor: 0.998
+"
+Siapa arkitek yang hasilkan awak?,"who-is-your-mentor: 0.988
+"
+Siapa yang cipta awak?,"who-is-your-mentor: 1
+"
+I am lonely,"i-am-lonely: 0.997
+"
+I'm lonely,"i-am-lonely: 0.997
+"
+Saya kesunyian.,"i-am-lonely: 0.992
+"
+Saya lonely.,"i-am-lonely: 0.996
+"
+stupid,"you-are-boring: 0.925
+"
+slow,"you-are-boring: 0.571
+"
+snail,"you-are-boring: 0.571
+"
+slow ,"you-are-boring: 0.571
+"
+idiot,"you-are-boring: 0.925
+"
+idiot,"you-are-boring: 0.925
+"
+lamp,"Products and Services: 0.231
+"
+pig ,"you-are-boring: 0.925
+"
+not function correctly,"liveagent: 0.121
+"
+idiot,"you-are-boring: 0.925
+"
+curse word,"you-are-boring: 0.447
+"
+cheap thing,"you-are-boring: 0.884
+"
+useless,"you-are-boring: 0.571
+"
+stupid,"you-are-boring: 0.925
+"
+crazy,"you-are-boring: 0.925
+"
+arrogant,"you-are-boring: 0.925
+"
+show off,"promotions: 0.998
+"
+curse word,"you-are-boring: 0.447
+"
+lanjiao,"you-are-boring: 0.571
+"
+very bad,"you-are-boring: 0.578
+"
+don’t like,"you-are-boring: 0.774
+"
+hatred,"you-are-boring: 0.925
+"
+hate,"you-are-boring: 0.925
+"
+trash,"you-are-boring: 0.925
+"
+forbidden,"you-are-boring: 0.945
+"
+bastard,"you-are-boring: 0.925
+"
+curse word,"you-are-boring: 0.447
+"
+lanjiao,"you-are-boring: 0.571
+"
+dog,"you-are-boring: 0.925
+"
+fig,"you-are-boring: 0.925
+"
+fig,"you-are-boring: 0.925
+"
+curse word,"you-are-boring: 0.447
+"
+curse word,"you-are-boring: 0.447
+"
+curse word,"you-are-boring: 0.447
+"
+curse word,"you-are-boring: 0.447
+"
+bodoh ,"you-are-boring: 0.925
+"
+lembap,"you-are-boring: 0.925
+"
+siput,"you-are-boring: 0.571
+"
+slow la,"you-are-boring: 0.571
+"
+bangang,"you-are-boring: 0.925
+"
+bengap,"you-are-boring: 0.925
+"
+lampi,"you-are-boring: 0.925
+"
+babi la,"you-are-boring: 0.925
+"
+tak function betul,"you-are-boring: 0.361
+"
+mangkuk ,"main menu: 0.064
+"
+sengal ,"you-are-boring: 0.925
+"
+cap ayam,"change language: 0.047
+"
+tak guna,"you-are-boring: 0.901
+"
+bebal ,"you-are-boring: 0.925
+"
+gila betul,"main menu: 0.072
+"
+sombong,"you-are-boring: 0.925
+"
+berlagak,"you-are-boring: 0.925
+"
+lancau,"you-are-boring: 0.925
+"
+lanjiao,"you-are-boring: 0.571
+"
+teruk sangat,"you-are-boring: 0.629
+"
+tak suka,"you-are-boring: 0.905
+"
+benci,"you-are-boring: 0.925
+"
+menyampah,"you-are-boring: 0.925
+"
+sampah,"you-are-boring: 0.925
+"
+haram ,"liveagent: 0.137
+"
+haram jadah betul,"you-are-boring: 0.925
+"
+Pukimak,"you-are-boring: 0.925
+"
+lanjiao,"you-are-boring: 0.571
+"
+anjing,"you-are-boring: 0.925
+"
+anjir,"you-are-boring: 0.925
+"
+anjirr,"main menu: 0.098
+"
+hanat,"you-are-boring: 0.925
+"
+lahanat,"you-are-boring: 0.925
+"
+jibai,"you-are-boring: 0.925
+"
+cibai,"you-are-boring: 0.925
+"
+Do you like sport,"do-you-like-sport: 0.999
+"
+Do you like playing ball,"do-you-like-sport: 1
+"
+Do you like tennis,"do-you-like-sport: 0.993
+"
+Do you like watching FIFA?,"do-you-like-sport: 1
+"
+Do you like music?,"do-you-like-sport: 0.992
+"
+Do you like dangdut?,"do-you-like-sport: 0.987
+"
+Do you like rock music?,"do-you-like-sport: 0.971
+"
+Do you like watching movie?,"do-you-like-sport: 0.957
+"
+Do you like jazz?,"do-you-like-sport: 0.999
+"
+Do you like playing congkak?,"do-you-like-sport: 0.994
+"
+Do you like travel?,"do-you-like-sport: 0.983
+"
+Awak suka bersukan?,"do-you-like-sport: 0.986
+"
+Awak suka main bola?,"do-you-like-sport: 0.999
+"
+Awak suka tenis?,"do-you-like-sport: 0.993
+"
+Awak suka FIFA  tak?,"do-you-like-sport: 0.999
+"
+Awak suka muzik tak?,"do-you-like-sport: 0.998
+"
+Awak suka dangdut tak?,"do-you-like-sport: 0.948
+"
+Awak suka lagu rock tak?,"do-you-like-sport: 0.996
+"
+Awak suka tengok movie tak?,"do-you-like-sport: 0.949
+"
+Awak suka jazz tak?,"do-you-like-sport: 1
+"
+Awak suka main congkak tak?,"do-you-like-sport: 0.985
+"
+Awak suka melancong tak?,"do-you-like-sport: 0.92
+"
+Who are you?,"who-are-you: 0.993
+"
+What is your name?,"who-are-you: 0.996
+"
+Siapa awak?,"who-are-you: 0.986
+"
+Nama awak apa?,"who-are-you: 0.995
+"
+Have you eat?,"have-you-eat: 1
+"
+Have you drink?,"have-you-eat: 0.998
+"
+Are you hungry?,"have-you-eat: 0.994
+"
+What is your favorite food?,"have-you-eat: 0.972
+"
+Dah makan?,"have-you-eat: 0.992
+"
+Dah minum?,"have-you-eat: 0.96
+"
+Lapar tak?,"have-you-eat: 0.994
+"
+Apa makanan kegemaran awak?,"have-you-eat: 0.305
+what-color-you-like: 0.205
+"
+What can you do?,"what-can-you-do: 0.998
+"
+Awak boleh buat apa?,"what-can-you-do: 0.993
+"
+Who is your boss?,"who-is-your-boss: 0.997
+"
